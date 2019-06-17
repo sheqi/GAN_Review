@@ -1,13 +1,15 @@
 # GAN_Review
 A Survey and Taxonomy of the Recent GANs Development
-Please cite our recent review paper “Generative Adversarial Networks: A Survey and Taxonomy”
+Please refer details to our recent review paper “Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E. 
 
-@article{wang2019generative,
-  title={Generative Adversarial Networks: A Survey and Taxonomy},
-  author={Wang, Zhengwei and She, Qi and Ward, Tomas E},
-  journal={arXiv preprint arXiv:1906.01529},
-  year={2019}
-}
+If you find this useful in your research, please consider citing:
+
+    @article{wang2019generative,
+    title={Generative Adversarial Networks: A Survey and Taxonomy},
+    author={Wang, Zhengwei and She, Qi and Ward, Tomas E},
+    journal={arXiv preprint arXiv:1906.01529},
+    year={2019}
+    }
 
 
 We have classified the two GAN-variants research lines based on recent GAN developments, below we provide a summary and the demo code of these models.

@@ -1,6 +1,5 @@
 # GAN_Review
-A Survey and Taxonomy of the Recent GANs Development
-Please refer details to our recent review paper “Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E. 
+A Survey and Taxonomy of the Recent GANs Development. Please refer to the details in recent review paper “Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E. 
 
 If you find this useful in your research, please consider citing:
 
@@ -12,7 +11,7 @@ If you find this useful in your research, please consider citing:
     }
 
 
-We have classified the two GAN-variants research lines based on recent GAN developments, below we provide a summary and the demo code of these models.
+We have classified the two GAN-variants research lines based on recent GAN developments, below we provide a summary and the demo code of these models. We have tested the codes below and tried to summary some of <b>lightweight</b> and <b>easy-to-reuse</b> module of state-of-the-art GANs.
 
 ## Architecture-variant GANs
 LAPGAN:  

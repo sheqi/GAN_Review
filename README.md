@@ -1,5 +1,5 @@
 # GAN_Review
-A Survey and Taxonomy of the Recent GANs Development. Please refer to the details in recent review paper “Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E. 
+A Survey and Taxonomy of the Recent GANs Development. Please refer to the details in recent review paper [“Generative Adversarial Networks: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E.](https://arxiv.org/pdf/1906.01529.pdf) 
 
 If you find this useful in your research, please consider citing:
 

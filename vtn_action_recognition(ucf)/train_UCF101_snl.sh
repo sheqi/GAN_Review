@@ -1,0 +1,14 @@
+python main_snl.py \
+--root-path ./ \
+--dataset ucf101_1 \
+--model resnet34_vtn_snl \
+--batch 32 \
+--n-epochs 20 \
+-j 12 \
+--clip-size 16 \
+--st 2 \
+--lr 1e-5 \
+--pretrain-path pretrain/resnet_34_vtn_rgb_kinetics.pth \
+--n-classes 101 \
+--annotation-path ./splits/ucf101_03.json \
+--video-path /home/sheqi/action-recognition/datasets/ucf101/frames_data

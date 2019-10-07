@@ -1,0 +1,15 @@
+python main_nl.py \
+--root-path ./ \
+--dataset ucf101_1 \
+--model resnet34_vtn_snl \
+-b16 \
+--lr 1e-5 \
+--seq 16  \
+--st 2 \
+--no-train \
+--no-val \
+--test \
+--pretrain-path pretrain/resnet_34_vtn_rgb_kinetics.pth \
+--n-classes 101 \
+--annotation-path ./splits/ucf101_03.json  \
+--video-path /home/sheqi/action-recognition/datasets/ucf101/frames_data

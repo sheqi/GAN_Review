@@ -1,0 +1,185 @@
+name: "CGNL-Module"
+
+# Here should be the intermediate feature tensors.
+input: "input_feature"
+input_dim: 1
+input_dim: 1024
+input_dim: 14
+input_dim: 14
+
+layer {
+    bottom: "input_feature"
+    top: "conv_theta"
+    name: "conv_theta"
+    type: "Convolution"
+    convolution_param {
+        num_output: 512
+        kernel_size: 1
+        stride: 1
+        bias_term: false
+        weight_filler {
+            type: "gaussian"
+            std: 0.01
+        }
+    }
+}
+
+layer {
+    name: "conv_thetaM"
+    type: "Reshape"
+    bottom: "conv_theta"
+    top: "conv_thetaM"
+    reshape_param {
+        shape {
+            dim: 0
+            dim: -1
+            dim: 1
+        }
+    }
+}
+
+layer {
+    bottom: "input_feature"
+    top: "conv_phi"
+    name: "conv_phi"
+    type: "Convolution"
+    convolution_param {
+        num_output: 512
+        kernel_size: 1
+        stride: 1
+        bias_term: false
+        weight_filler {
+            type: "gaussian"
+            std: 0.01
+        }
+    }
+}
+
+layer {
+    name: "conv_phiM"
+    type: "Reshape"
+    bottom: "conv_phi"
+    top: "conv_phiM"
+    reshape_param {
+        shape {
+            dim: 0
+            dim: 1
+            dim: -1
+        }
+    }
+}
+
+layer {
+    bottom: "input_feature"
+    top: "conv_g"
+    name: "conv_g"
+    type: "Convolution"
+    convolution_param {
+        num_output: 512
+        kernel_size: 1
+        stride: 1
+        bias_term: false
+        weight_filler {
+            type: "gaussian"
+            std: 0.01
+        }
+    }
+}
+
+layer {
+    name: "conv_gM"
+    type: "Reshape"
+    bottom: "conv_g"
+    top: "conv_gM"
+    reshape_param {
+        shape {
+            dim: 0
+            dim: -1
+            dim: 1
+        }
+    }
+}
+
+layer {
+    bottom: "conv_phiM"
+    bottom: "conv_gM"
+    top: "feat_phi_g"
+    name: "feat_phi_g"
+    type: "MatrixMultiplication"
+}
+
+layer {
+    bottom: "conv_thetaM"
+    bottom: "feat_phi_g"
+    top: "feat_phi_g_theta"
+    name: "feat_phi_g_theta"
+    type: "MatrixMultiplication"
+}
+
+layer {
+    bottom: "feat_phi_g_theta"
+    top: "feat_phi_g_theta"
+    name: "feat_phi_g_theta"
+    type: "Reshape"
+    reshape_param {
+        shape {
+            dim: 0
+            dim: 512
+            dim: 14
+            dim: 14
+        }
+    }
+}
+
+layer {
+    bottom: "feat_phi_g_theta"
+    top: "conv_z"
+    name: "conv_z"
+    type: "Convolution"
+    convolution_param {
+        num_output: 1024
+        kernel_size: 1
+        stride: 1
+        bias_term: false
+        weight_filler {
+            type: "gaussian"
+            std: 0.01
+        }
+    }
+}
+
+layer {
+    bottom: "conv_z"
+    top: "bn_conv_z"
+    name: "bn_conv_z"
+    type: "BatchNorm"
+    batch_norm_param {
+        use_global_stats: true
+    }
+}
+
+layer {
+    bottom: "bn_conv_z"
+    top: "scale_conv_z"
+    name: "scale_conv_z"
+    type: "Scale"
+    scale_param {
+        bias_term: true
+        filler {
+            type: "constant"
+            value: 1.0
+        }
+        bias_filler {
+            type: "constant"
+            value: 0.0
+        }
+    }
+}
+
+layer {
+    bottom: "scale_conv_z"
+    bottom: "input_feature"
+    top: "output_feature"
+    name: "output_feature"
+    type: "Eltwise"
+}

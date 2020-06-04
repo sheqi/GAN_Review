@@ -4,7 +4,7 @@ A Survey and Taxonomy of the Recent GANs Development. Please refer to the detail
 If you find this useful in your research, please consider citing:
 
     @article{wang2019generative,
-    title={Generative Adversarial Networks: A Survey and Taxonomy},
+    title={Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy},
     author={Wang, Zhengwei and She, Qi and Ward, Tomas E},
     journal={arXiv preprint arXiv:1906.01529},
     year={2019}

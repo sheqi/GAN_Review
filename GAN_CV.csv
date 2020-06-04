@@ -1,0 +1,323 @@
+First Aurthor,Year,Title,Type
+Goodfellow I,2014,Generative adversarial nets,Conference
+Mirza M,2014,Conditional generative adversarial nets,arXiv
+Makhzani A,2015,Adversarial autoencoders,arXiv
+Springenberg J T,2015,Unsupervised and semi-supervised learning with categorical generative adversarial networks,arXiv
+Radford A,2015,Unsupervised representation learning with deep convolutional generative adversarial networks,Conference
+Denton E L,2015,Deep generative image models using a laplacian pyramid of adversarial networks,Conference
+Li Y,2015,Generative moment matching networks,Conference
+Dziugaite G K,2015,Training generative neural networks via maximum mean discrepancy optimization,Conference
+Theis L,2015,A note on the evaluation of generative models,Conference
+Lotter W,2015,Unsupervised learning of visual structure using predictive generative networks,Conference
+Liu MY,2016,Coupled generative adversarial networks,Conference
+Metz L ,2016,Unrolled generative adversarial networks,Conference
+Zhao J,2016,Energy-based generative adversarial network,Conference
+Salimans T,2016,Improved Techniques for Training GANs,Conference
+Reed S,2016,Generative adversarial text to image synthesis,Conference
+Chen X,2016,InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets,Conference
+Odena A,2016,Semi-supervised learning with generative adversarial networks,Conference
+Che T,2016,Mode regularized generative adversarial networks,Conference
+Wang X,2016,Generative image modeling using style and structure adversarial networks,Conference
+Ho J ,2016,Generative adversarial imitation learning,Conference
+Wu J,2016,Learning a probabilistic latent space of object shapes via 3D generative-adversarial modeling,Conference
+Durugkar I,2016,Generative multi-adversarial networks,Conference
+Warde-Farley D,2016,Improving generative adversarial networks with denoising feature matching,Conference
+Luc P,2016,Semantic segmentation using adversarial networks,Conference
+Finn C,2016,"A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",Conference
+Im D,2016,Generating images with recurrent adversarial networks,Conference
+Brock A,2016,Neural photo editing with introspective adversarial networks,Conference
+Donahue J,2016,Adversarial feature learning,Conference
+Jetchev N,2016,Texture synthesis with spatial generative adversarial networks,Conference
+Zhu J,2016,Generative visual manipulation on the natural image manifold,Conference
+Mogren O,2016,C-RNN-GAN: Continuous recurrent neural networks with adversarial training,Conference
+Nowozin S,2016,f-GAN: Training generative neural samplers using variational divergence minimization,Conference
+Wang Y,2016,Ensembles of generative adversarial networks,Conference
+Dosovitskiy A,2016,Generating images with perceptual similarity metrics based on deep networks,Conference
+Wang D,2016,Learning to draw samples: With application to amortized mle for generative adversarial learning,Conference
+Mohamed S,2016,Learning in implicit generative models,Conference
+Kwak H,2016,Ways of conditioning generative adversarial networks,Conference
+Yu X,2016,Ultra-resolving face images by discriminative generative networks,Conference
+Wu Y,2016,On the quantitative analysis of decoder-based generative models,Conference
+Kwak H,2016,Generating images part by part with composite generative adversarial networks,Conference
+Ghosh A,2016,SAD-GAN: Synthetic autonomous driving using generative adversarial network,Conference
+Kataoka Y,2016,Image generation using generative adversarial networks and attention mechanism,Conference
+Sutherland D,2016,Generative models and model criticism via optimized maximum mean discrepancy,Conference
+Ren Y,2016,Conditional generative moment-matching networks,Conference
+Vondrick C,2016,Generating videos with scene dynamics,Conference
+Poole B,2016,Improved generator objectives for GANs,Conference
+Deng Z,2016,Generative adversarial structured networks,Conference
+Mao X,2016,Multi-class generative adversarial networks with the L2 loss function,arXiv
+Denton E,2016,Semi-supervised learning with context-conditional generative adversarial networks,arXiv
+Im D,2016,Generative adversarial nets from a density ratio estimation perspective,arXiv
+Zhai S,2016,Generative adversarial networks as variational training of energy based models,arXiv
+Volkhonskiy D,2016,Discriminative regularization for generative models,arXiv
+Premachandran V,2016,Unsupervised learning using generative adversarial training and clustering,arXiv
+Bartunov S,2016,Fast Adaptation in Generative Models with Generative Matching Networks,arXiv
+Arjovsky M,2017,Wasserstein generative adversarial networks,Conference
+Heusel M,2017,GANs trained by a two time-scale update rule converge to a local nash equilibrium,Conference
+Gulrajani I,2017,Improved Training of Wasserstein GANs,Conference
+Odena A,2017,Conditional image synthesis with auxiliary classifier GANs,Conference
+Mao X,2017,Least squares generative adversarial networks,Conference
+Ledig C,2017,Photo-realistic single image super-resolution using a generative adversarial network,Conference
+Zhang H,2017,StackGAN: Text to photo-realistic image synthesis with stacked generative adversarial networks,Conference
+Berthelot D,2017,BEGAN: Boundary equilibrium generative adversarial networks,Conference
+Kim T,2017,Learning to discover cross-domain relations with generative adversarial networks,Conference
+Bousmalis K,2017,Unsupervised pixel-level domain adaptation with generative adversarial networks,Conference
+Huang X,2017,Stacked generative adversarial networks,Conference
+Isola P,2017,Image-to-image translation with conditional adversarial networks,Conference
+Mescheder L,2017,Adversarial variational bayes: Unifying variational autoencoders and generative adversarial networks,Conference
+Zhu J,2017,Unpaired image-to-image translation using cycle-consistent adversarial networks,Conference
+Schlegl T,2017,Unsupervised anomaly detection with generative adversarial networks to guide marker discovery,Conference
+Nie D ,2017,Medical image synthesis with context-aware generative adversarial networks,Conference
+Yu L,2017,SeqGAN: Sequence generative adversarial nets with policy gradient,Conference
+Li J,2017,Perceptual generative adversarial networks for small object detection,Conference
+Antoniou A ,2017,Data augmentation generative adversarial networks,Conference
+Roth K ,2017,Stabilizing training of generative adversarial networks through regularization,Conference
+Kuefler A,2017,Imitating driver behavior with generative adversarial networks,Conference
+Hjelm R ,2017,Boundary-seeking generative adversarial networks,Conference
+Arora S,2017,Generalization and equilibrium in generative adversarial nets (GANs),Conference
+Li C,2017,Triple generative adversarial nets,Conference
+Dai Z,2017,Calibrating energy-based generative adversarial networks,Conference
+Yang J,2017,LR-GAN: Layered recursive generative adversarial networks for image generation,Conference
+Gan Z ,2017,Triangle generative adversarial networks,Conference
+Gurumurthy S ,2017,DeLiGAN : Generative adversarial networks for diverse and limited data,Conference
+Liu M,2017,Unsupervised image-to-image translation networks,Conference
+Wang C,2017,Tag disentangled generative adversarial networks for object image re-rendering,Conference
+Shrivastava A ,2017,Learning from simulated and unsupervised images through adversarial training,Conference
+Nguyen V,2017,Shadow detection with conditional generative adversarial networks,Conference
+Saito M,2017,Temporal generative adversarial nets with singular value clipping,Conference
+Donahue C ,2017,Semantically decomposing the latent spaces of generative adversarial networks,Conference
+Nguyen T ,2017,Dual discriminator generative adversarial nets,Conference
+Deng Z,2017,Structured generative adversarial networks,Conference
+Qiu Z ,2017,Deep semantic hashing with generative adversarial networks,Conference
+Guibas J,2017,Synthetic medical images from dual generative adversarial networks,Conference
+Liu S,2017,Approximation and convergence properties of generative adversarial learning,Conference
+Grnarova P,2017,An online learning approach to generative adversarial networks,Conference
+Souly N,2017,Semi supervised semantic segmentation using generative adversarial network,Conference
+Wang W ,2017,Shape inpainting using 3D generative adversarial network and recurrent convolutional networks,Conference
+Lai W ,2017,Semi-supervised learning for optical flow with generative adversarial networks,Conference
+Ravanbakhsh M,2017,Abnormal event detection in videos using generative adversarial nets,Conference
+Li Y,2017,Generative face completion,Conference
+Yang C,2017,High-resolution image inpainting using multi-scale neural patch synthesis,Conference
+Chen M,2017,Multi-view generative adversarial networks,Conference
+Hausman K,2017,Multi-modal imitation learning from unstructured demonstrations using generative adversarial nets,Conference
+Choe J ,2017,Face generation for low-shot learning using generative adversarial networks,Conference
+Bi L,2017,Synthesis of positron emission tomography (PET) images via multi-channel generative adversarial networks (GANs),Conference
+Xiang S,2017,On the effects of batch and weight normalization in generative adversarial networks,Conference
+Bojanowski P,2017,Optimizing the latent space of generative networks,Conference
+Hu Y,2017,Freehand ultrasound image simulation with spatially-conditioned generative adversarial networks,Conference
+Liu,2017,Interactive 3D modeling with a generative adversarial network,Conference
+Yu S ,2017,GaitGAN: Invariant gait feature extraction using generative adversarial networks,Conference
+Mahapatra D,2017,Image super resolution using generative adversarial networks and local saliency maps for retinal image analysis,Conference
+Chen Y,2017,Adversarial posenet: A structure-aware convolutional network for human pose estimation,Conference
+Bora A,2017,Compressed sensing using generative models,Conference
+Yeh R,2017,Semantic image inpainting with deep generative models,Conference
+Tolstikhin I,2017,AdaGAN: Boosting Generative Models,Conference
+Zhang H,2017,Generative adversarial network-based synthesis of visible faces from polarimetrie thermal faces,Conference
+Bhattacharjee P,2017,Temporal coherency based criteria for predicting video frames using deep multi-stage generative adversarial networks,Conference
+Dai Z,2017,Good semi-supervised learning that requires a bad GAN,Conference
+Giuffrida M,2017,ARIGAN: synthetic Arabidopsis plants using generative adversarial network,Conference
+Dong H,2017,Semantic image synthesis via adversarial learning,Conference
+Li Y,2017,Dualing GANs,Conference
+Zhu J,2017,Toward multimodal image-to-image translation,Conference
+Ma J,2017,Pose guided person image generation,Conference
+Lassner C,2017,A generative model of people in clothing,Conference
+Ghosh A,2017,Handwriting profiling using generative adversarial networks,Conference
+Rosca M,2017,Variational approaches for auto-encoding generative adversarial networks,arXiv
+Kodali N,2017,On Convergence and Stability of GANs,arXiv
+Qi G,2017,Loss-sensitive generative adversarial networks on lipschitz densities,arXiv
+Pan J,2017,SalGAN: Visual saliency prediction with generative adversarial networks,arXiv
+Che T,2017,Maximum-likelihood augmented discrete generative adversarial networks,arXiv
+Zhang H,2017,Image de-raining using a conditional generative adversarial network,arXiv
+Guimaraes G,2017,Objective-reinforced generative adversarial networks (ORGAN) for sequence generation models,arXiv
+Lipton Z,2017,Precise recovery of latent vectors from generative adversarial networks,arXiv
+Son J,2017,Retinal vessel segmentation in fundoscopic images with generative adversarial networks,arXiv
+Mardani M,2017,Recurrent generative residual networks for proximal learning and automated compressive image recovery,arXiv
+Hoffman J,2017,CyCADA: Cycle-consistent adversarial domain adaptation,arXiv
+Jin Y,2017,Towards the automatic anime characters creation with generative adversarial networks,arXiv
+Shi H,2017,SSGAN: Secure steganography based on generative adversarial networks,arXiv
+Mahasseni B,2017,Unsupervised video summarization with adversarial LSTM networks,arXiv
+Lee B,2017,Generative adversarial trainer: Defense to adversarial perturbations with GAN,arXiv
+Mustafa M,2017,Creating virtual universes using generative adversarial networks,arXiv
+Wu H,2017,GP-GAN:Towards  realistic  high-resolution  image  blending,arXiv
+Lim J,2017,Geometric GAN,arXiv
+Xu F,2017,Gang of GANs: Generative adversarial networks with maximum margin ranking,arXiv
+Galteri L,2017,Deep generative adversarial compression artifact removal,arXiv
+Li X,2017,Adversarial examples detection in deep networks with convolutional filter statistics,arXiv
+Li C,2017,MMD GAN: Towards deeper understanding of moment matching network,arXiv
+Kim T,2017,Unsupervised visual attribute transfer with reconfigurable generative adversarial networks,arXiv
+Mao X,2017,Aligngan: Learning to align cross-domain images with conditional generative adversarial networks,arXiv
+Mardani M,2017,Deep generative adversarial networks for compressed sensing automates MRI,Journal
+Zhang H,2017,StackGAN++: Realistic image synthesis with stacked generative adversarial networks,Journal
+Oliveira L,2017,Learning particle physics by example: location-aware generative adversarial networks for physics synthesis,Journal
+Schawinski K,2017,Generative adversarial networks recover features in astrophysical images of galaxies beyond the deconvolution limit,Journal
+Wang K,2017,Generative adversarial networks: Introduction and outlook,Journal
+He Z ,2017,Generative adversarial networks-based semi-supervised learning for hyperspectral image classification,Journal
+Lizuka S,2017,Globally and locally consistent image completion,Journal
+Tang W ,2017,Automatic steganographic distortion learning using a generative adversarial network,Journal
+Salimans T,2018,Improving GANs Using Optimal Transport,Conference
+Salehinejad H,2018,Generalization of deep neural networks for chest pathology classification in X-rays using generative adversarial networks,Conference
+Ghosh A,2018,Multi-agent diverse generative adversarial networks,Conference
+Miyato T,2018,Spectral normalization for generative adversarial networks,Conference
+Choi Y,2018,StarGAN: Unified generative adversarial networks for multi-domain image-to-image translation,Conference
+Arbel M,2018,On gradient regularizers for MMD GANs,Conference
+Zhang H,2018,Self-attention generative adversarial networks,Conference
+Xu T,2018,AttnGAN: Fine-grained text to image generation with attentional generative adversarial networks,Conference
+Sankaranarayanan S,2018,Generate to adapt: Aligning domains using generative adversarial networks,Conference
+Gupta A,2018,Social GAN: Socially acceptable trajectories with generative adversarial networks,Conference
+Lin Z,2018,PacGAN: The power of two samples in generative adversarial networks,Conference
+Song J,2018,Binary generative adversarial networks for image retrieval,Conference
+Kupyn O,2018,DeblurGAN: Blind motion deblurring using conditional adversarial networks,Conference
+Wang H,2018,GraphGAN: Graph representation learning with generative adversarial nets,Conference
+Wang X ,2018,ESRGAN: Enhanced super-resolution generative adversarial networks,Conference
+Chuquicusma M,2018,How to fool radiologists with generative adversarial networks? A visual turing test for lung cancer diagnosis,Conference
+Lin C,2018,ST-GAN: Spatial transformer generative adversarial networks for image compositing,Conference
+Zhang Z,2018,Translating and segmenting multimodal medical volumes with cycle-and shape-consistency generative adversarial network,Conference
+Xiong W ,2018,Learning to generate time-lapse videos using multi-stage dynamic generative adversarial networks,Conference
+Xiao C ,2018,Generating adversarial examples with adversarial networks,Conference
+Ma C,2018,DA-GAN: Instance-level image translation by deep attention generative adversarial networks,Conference
+Karras T ,2018,"Progressive growing of GANs for improved quality, stability, and variation",Conference
+Wang J,2018,Stacked conditional generative adversarial networks for jointly learning shadow detection and shadow removal,Conference
+Jaiswal A ,2018,CapsuleGAN: Generative adversarial capsule network,Conference
+Gidel G,2018,A variational inequality perspective on generative adversarial networks,Conference
+Qian R ,2018,Attentive generative adversarial network for raindrop removal from a single image,Conference
+Zhang H,2018,Multi-style generative network for real-time transfer,Conference
+Fabbri C ,2018,Enhancing underwater imagery using generative adversarial networks,Conference
+Dolhansky B,2018,Eye in-painting with exemplar generative adversarial networks,Conference
+Emami H,2018,Generating synthetic CTs from magnetic resonance images using generative adversarial networks,Conference
+Yu J,2018,Generative image inpainting with contextual attention,Conference
+Yazdanbakhsh A,2018,GANAX: a unified MIMD-SIMD acceleration for generative adversarial networks,Conference
+Laloy E,2018,Training_image based geostatistical inversion using a spatial generative adversarial neural network,Conference
+Ulyanov D ,2018,It takes (only) two: Adversarial generator-encoder networks,Conference
+Wu Y,2018,Incremental classifier learning with generative adversarial networks,Conference
+Jin D,2018,CT-realistic lung nodule simulation from 3D conditional generative adversarial networks for robust lung segmentation,Conference
+Dai Q,2018,Adversarial network embedding,Conference
+Madani A,2018,Semi-supervised learning with generative adversarial networks for chest X-ray classification with ability of data domain adaptation,Conference
+Dupont E,2018,Generating realistic geology conditioned on physical measurements with generative adversarial networks,Conference
+Bai Y,2018,Finding tiny faces in the wild with generative adversarial network,Conference
+Liang T,2018,Interaction matters: A note on non-asymptotic local convergence of generative adversarial networks,Conference
+Volz V ,2018,Evolving mario levels in the latent space of a deep convolutional generative adversarial network,Conference
+Zhang T,2018,TV-GAN: Generative adversarial network based thermal to visible face recognition,Conference
+Yuan Y,2018,Unsupervised image super-resolution using cycle-in-cycle generative adversarial networks,Conference
+Fernando T,2018,Task specific visual saliency prediction with memory augmented conditional generative adversarial networks,Conference
+Li R,2018,Single image dehazing via conditional generative adversarial network,Conference
+Chen J,2018,Image blind denoising with generative adversarial network based noise modeling,Conference
+Kabkab M,2018,Task-aware compressed sensing with generative adversarial networks,Conference
+Wang L,2018,High-quality facial photo-sketch synthesis using multi-adversarial networks,Conference
+Zhu X,2018,Emotion classification with data augmentation using generative adversarial networks,Conference
+Hong W,2018,Conditional generative adversarial network for structured domain adaptation,Conference
+Kossaifi J,2018,GAGAN: Geometry-aware generative adversarial networks,Conference
+Wang T,2018,High-resolution image synthesis and semantic manipulation with conditional gans,Conference
+Chen Y,2018,CartoonGAN: Generative adversarial networks for photo cartoonization,Conference
+Chou C,2018,Self adversarial training for human pose estimation,Conference
+Hoang Q,2018,MGAN: Training generative adversarial nets with multiple generators,Conference
+Qi G,2018,Global versus localized generative adversarial nets,Conference
+Zhao B,2018,Modular generative adversarial networks,Conference
+Chen Y,2018,Efficient and accurate MRI super-resolution using a generative adversarial network and 3D multi-Level densely connected network,Conference
+Grover A,2018,Flow-GAN: Combining maximum likelihood and adversarial learning in generative models,Conference
+Lettry L,2018,DARN: a deep adversarial residual network for intrinsic image decomposition,Conference
+Hu L,2018,Duplex generative adversarial network for unsupervised domain adaptation,Conference
+Perera P,2018,In2I: Unsupervised multi-image-to-image translation using generative adversarial networks,Conference
+Bora A,2018,AmbientGAN: Generative models from lossy measurements,Conference
+Tom F,2018,Simulating patho-realistic ultrasound images using deep generative networks with adversarial learning,Conference
+Davaslioglu K,2018,Generative adversarial learning for spectrum sensing,Conference
+Yazdanbakhsh A,2018,FlexiGAN: An end-to-end solution for FPGA acceleration of generative adversarial networks,Conference
+Park N,2018,MMGAN: Manifold-matching generative adversarial networks,Conference
+Oyamada K,2018,Generative adversarial network-based approach to signal reconstruction from magnitude spectrogram,Conference
+Chen C,2018,Semantic-aware generative adversarial nets for unsupervised domain adaptation in chest x-ray segmentation,Conference
+Ghamisi P,2018,IMG2DSM: Height simulation from single imagery using conditional generative adversarial net,Conference
+Li C,2018,Fast-converging conditional generative adversarial networks for image synthesis,Conference
+Yin C,2018,An enhancing framework for botnet detection using generative adversarial networks,Conference
+Wang z,2018,Face aging with identity-preserved conditional generative adversarial networks,Conference
+Lucic M,2018,Are GANs created equal? A large-scale study,Conference
+Khrulkov V ,2018,Geometry Score: A method for comparing generative adversarial networks,Conference
+Ghafoorian M,2018,EL-GAN: embedding loss driven generative adversarial networks for lane detection,Conference
+Jolicoeur-Martineau A,2018,The relativistic discriminator: a key element missing from standard GAN,arXiv
+Yi X,2018,Generative adversarial network in medical imaging: A review,arXiv
+Mao X ,2018,Unpaired multi-domain image generation via regularized conditional GANs ,arXiv
+Agustsson E,2018,Generative adversarial networks for extreme learned image compression,arXiv
+Bodnar C,2018,Text to image synthesis using generative adversarial networks,arXiv
+Demir U,2018,Patch-based image inpainting with generative adversarial networks,arXiv
+Kurach K,2018,"The GAN landscape: Losses, architectures, regularization, and normalization",arXiv
+Hitawala S,2018,Comparative study on generative adversarial networks,arXiv
+Xu Q,2018,An empirical study on evaluation metrics of generative adversarial networks,arXiv
+Xie L,2018,Differentially private generative adversarial network,arXiv
+Chen Z,2018,High resolution face completion with multiple controllable attributes via fully end-to-end progressive generative adversarial networks,arXiv
+Kumar A,2018,Deformable medical image registration using generative adversarial networks,arXiv
+Li P,2018,Global and local consistent age generative adversarial networks,arXiv
+Chen T,2018,On self modulation for generative adversarial networks,arXiv
+Zanjani F ,2018,Stain normalization of histopathology images using generative adversarial networks,arXiv
+Cao N,2018,MolGAN: An implicit generative model for small molecular graphs,arXiv
+Tripathi S ,2018,Correction by projection: Denoising images with generative adversarial networks,arXiv
+Mahmood R,2018,Automated treatment planning in radiation therapy using generative adversarial networks,arXiv
+Karras T,2018,A style-based generator architecture for generative adversarial networks,arXiv
+Mao X,2018,On the effectiveness of least squares generative adversarial networks,Journal
+Paganini M,2018,Accelerating science with generative adversarial networks: an application to 3D particle showers in multilayer calorimeters,Journal
+Paganini M,2018,CaloGAN: Simulating 3D high energy particle showers in multilayer electromagnetic calorimeters with generative adversarial networks,Journal
+Douzas G,2018,Effective data generation for imbalanced learning using conditional generative adversarial networks,Journal
+Creswell A ,2018,Generative adversarial networks: An overview,Journal
+Yang G,2018,DAGAN: deep de-aliasing generative adversarial networks for fast compressed sensing MRI reconstruction,Journal
+Yang Q,2018,Low-dose CT image denoising using a generative adversarial network with Wasserstein distance and perceptual loss,Journal
+Chen Y,2018,Model-free renewable scenario generation using generative adversarial networks,Journal
+Creswell A ,2018,Inverting the generator of a generative adversarial network,Journal
+Quan T,2018,Compressed sensing MRI reconstruction using a generative adversarial network with a cyclic loss,Journal
+Zhu L,2018,Generative adversarial networks for hyperspectral image classification,Journal
+Wang C,2018,Perceptual adversarial networks for image-to-image transformation,Journal
+Zhan Y,2018,Semisupervised hyperspectral image classification based on generative adversarial networks,Journal
+Wang Y,2018,3D conditional generative adversarial networks for high-quality PET image estimation at low dose,Journal
+Yi X,2018,Sharpness-aware low-dose CT denoising using conditional generative adversarial network,Journal
+Shi Q,2018,Road detection from remote sensing images by generative adversarial networks,Journal
+Huo Y,2018,Splenomegaly segmentation using global convolutional kernels and conditional generative adversarial networks,Journal
+Liu Y,2018,Auto-painter: Cartoon image generation from sketch by using conditional Wasserstein generative adversarial networks,Journal
+Tang B,2018,Digital signal modulation classification with data augmentation using generative adversarial nets in cognitive radio networks,Journal
+Han X ,2018,Semisupervised and weakly supervised road detection based on generative adversarial networks,Journal
+Seeliger K,2018,Generative adversarial networks for reconstructing natural images from brain activity,Journal
+Li J,2018,WaterGAN: Unsupervised generative network to enable real-time color correction of monocular underwater images,Journal
+Hu D ,2018,A novel image steganography method via deep convolutional generative adversarial networks,Journal
+Poursaeed O,2018,Generative adversarial perturbations,Journal
+Chen X ,2018,Adversarial deep averaging networks for cross-lingual sentiment classification,Journal
+Nie D ,2018,Medical image synthesis with deep convolutional adversarial networks,Journal
+Li Y,2018,Improved boundary equilibrium generative adversarial networks,Journal
+Mao X,2018,Semantic invariant cross-domain image generation with generative adversarial networks,Journal
+Gao F,2018,A deep convolutional generative adversarial networks (DCGANs)-based semi-supervised method for object recognition in synthetic aperture radar (SAR) images,Journal
+Peng Y,2018,CM-GANs: Cross-modal generative adversarial networks for common representation learning,Journal
+Brock A,2019,Large scale GAN training for high fidelity natural image synthesis,Conference
+Turkoglu M,2019,A  layer-based  sequential  framework  for  scenegeneration with GANs,Conference
+Saqur R,2019,CapsGAN: Using dynamic routing for generative adversarial networks,Conference
+Lucio D,2019,Fully convolutional networks and generative adversarial networks applied to sclera segmentation,Conference
+Bau D,2019,Visualizing and understanding generative adversarial networks,Conference
+Damer N,2019,MorGAN: Recognition vulnerability and attack detectability of face morphing attacks created by generative adversarial network,Conference
+Mao Q,2019,Mode seeking generative adversarial networks for diverse image synthesis,Conference
+Liu S,2019,Pixel level data augmentation for semantic image segmentation using generative adversarial networks,Conference
+Tang H,2019,Attention-guided generative adversarial networks for unsupervised image-to-image translation,Conference
+Thanh-Tung H,2019,Improving generalization and stability of generative adversarial networks,Conference
+Lin J,2019,Generative adversarial network-based frame extrapolation for video coding,Conference
+Tomei M,2019,Art2Real: Unfolding the reality of artworks via semantically-aware image-to-image translation,Conference
+Chen Y,2019,3D object completion via class-conditional generative adversarial network,Conference
+Qin Y,2019,How does Lipschitz regularization influence GAN training?,arXiv
+Tang H,2019,Dual generator generative adversarial networks for multi-domain image-to-image translation,arXiv
+Li D,2019,MAD-GAN: Multivariate anomaly detection for time series data with generative adversarial networks,arXiv
+Jo Y,2019,SC-FEGAN: Face editing generative adversarial network with user's sketch and color,arXiv
+Zhu B,2019,Deconstructing generative adversarial networks,arXiv
+Zhu M,2019,DM-GAN: Dynamic memory generative adversarial networks for text-to-image synthesis,arXiv
+Jia C,2019,Light field image compression using generative adversarial network-based view synthesis,arXiv
+Hong Y,2019,How generative adversarial networks and their variants work: An overview,Journal
+Zhao L,2019,Simultaneous color-depth super-resolution with conditional generative adversarial networks,Journal
+Dar S,2019,Image synthesis in multi-contrast MRI with conditional generative adversarial networks,Journal
+Mardani M,2019,Deep generative adversarial neural networks for compressive sensing MRI,Journal
+Wang C,2019,Evolutionary generative adversarial networks,Journal
+Ma J,2019,FusionGAN: A generative adversarial network for infrared and visible image fusion,Journal
+Lee M,2019,Controllable generative adversarial network,Journal
+Zhang C,2019,Crossing generative adversarial networks for cross-view person re-identification,Journal
+Tuan Y,2019,Improving conditional sequence generative adversarial networks by stepwise evaluation,Journal
+Mahapatra D,2019,Image super-resolution using progressive generative adversarial networks for medical image analysis,Journal
+Liu F,2019,SUSAN: Segment unannotated image structure using adversarial network,Journal
+Lu J,2019,Multi-scale adversarial network for underwater image restoration,Journal
+Kahng M,2019,GAN Lab: Understanding complex deep generative models using interactive visual experimentation,Journal
+Kang E,2019,Cycle_consistent adversarial denoising network for multiphase coronary CT angiography,Journal
+Hayes J,2019,LOGAN: Membership inference attacks against generative models,Journal
+Chen X ,2019,Gated-GAN: Adversarial gated networks for multi-collection style transfer,Journal
+Ponce C,2019,Evolving images for visual neurons using a deep generative network reveals coding principles and neuronal preferences,Journal
+Ghorban F ,2019,Conditional multichannel generative adversarial networks with an application to traffic signs representation learning,Journal
+Zhu D,2019,Spatial interpolation using conditional generative adversarial neural networks,Journal
+Kuo C,2019,Interpretable convolutional neural networks via feedforward design,Journal

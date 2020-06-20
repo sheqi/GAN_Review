@@ -75,3 +75,7 @@ https://github.com/AlexiaJM/RelativisticGAN (TensorFlow and PyTorch)
 SN-GAN:  
 https://github.com/taki0112/Spectral_Normalization-Tensorflow (TensorFlow) 
 https://github.com/christiancosgrove/pytorch-spectral-normalization-gan (PyTorch)
+
+## News 
+
+We have updated our **4th** version of GAN survey paper ! It inlcudes more recent GANs proposed at CVPR, ICCV 2019/2020, more intuitive visualization of GAN Taxonomy.

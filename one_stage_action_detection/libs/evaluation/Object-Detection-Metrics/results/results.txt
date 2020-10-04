@@ -1,5 +1,0 @@
-Object Detection Metrics
-https://github.com/rafaelpadilla/Object-Detection-Metrics
-
-
-Average Precision (AP), Precision and Recall per class:

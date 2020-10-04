@@ -1,6 +1,0 @@
-base = /home/zhulei/Documents/DataSet/JHMDB_21/
-train = /home/zhulei/Documents/DataSet/JHMDB_21/splits/trainlist.txt
-valid = /home/zhulei/Documents/DataSet/JHMDB_21/splits/testlist.txt
-names = configs/data/jhmdb21.names
-backup = backup
-gpus  = 0

@@ -1,1 +1,0 @@
-python3 train_val_imagenet.py --pretrained False --dataset imagenet --data_dir /home/sheqi/lei/dataset 

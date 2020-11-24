@@ -1,3 +1,10 @@
+## News 
+[2020/11/24] Our paper gets acceptted into **ACM Computing Surveys**，and we will continue to polish this work into the 5th version.
+
+[2020/06/20] We have updated our **4th** version of GAN survey paper ! It inlcudes more recent GANs proposed at CVPR, ICCV 2019/2020, more intuitive visualization of GAN Taxonomy.
+
+[2020/10/04] GANs related to our latest paper will be updated shortly.   
+
 # GAN_Review
 A Survey and Taxonomy of the Recent GANs Development. Please refer to the details in recent review paper [“Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy” Wang, Zhengwei and She, Qi and Ward, Tomas E.](https://arxiv.org/pdf/1906.01529.pdf) We also provide a list of papers related to GANs on computer vision in the GAN_CV.csv file.
 
@@ -75,9 +82,4 @@ https://github.com/AlexiaJM/RelativisticGAN (TensorFlow and PyTorch)
 SN-GAN:  
 https://github.com/taki0112/Spectral_Normalization-Tensorflow (TensorFlow) 
 https://github.com/christiancosgrove/pytorch-spectral-normalization-gan (PyTorch)
-
-## News 
-
-[2020/06/20] We have updated our **4th** version of GAN survey paper ! It inlcudes more recent GANs proposed at CVPR, ICCV 2019/2020, more intuitive visualization of GAN Taxonomy.
-
-[2020/10/04] GANs related to our latest paper will be updated shortly.    
+ 

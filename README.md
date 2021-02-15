@@ -49,14 +49,14 @@ BigGAN:
 https://github.com/taki0112/BigGAN-Tensorflow (TensorFlow)  
 https://github.com/ajbrock/BigGAN-PyTorch (PyTorch)
 
-Your Local GAN
+Your Local GAN:
 https://github.com/giannisdaras/ylg (TensorFlow)
 https://github.com/188zzoon/Your-Local-GAN (PyTorch)
 
-AutoGAN
+AutoGAN:
 https://github.com/VITA-Group/AutoGAN (PyTorch)
 
-MSG-GAN
+MSG-GAN:
 https://github.com/akanimax/msg-stylegan-tf (TensorFlow)
 https://github.com/akanimax/msg-gan-v1 (PyTorch)
 
@@ -98,15 +98,15 @@ SN-GAN:
 https://github.com/taki0112/Spectral_Normalization-Tensorflow (TensorFlow) 
 https://github.com/christiancosgrove/pytorch-spectral-normalization-gan (PyTorch)
 
-RealnessGAN
+RealnessGAN:
 https://github.com/taki0112/RealnessGAN-Tensorflow (TensorFlow)
 https://github.com/kam1107/RealnessGAN (PyTorch)
 
-Sphere GAN
+Sphere GAN:
 https://github.com/taki0112/SphereGAN-Tensorflow (TensorFlow)
 https://github.com/Dotori-HJ/SphereGAN-Pytorch-implementation (PyTorch)
 
-Self-supervised GAN
+Self-supervised GAN:
 https://github.com/zhangqianhui/Self-Supervised-GANs (TensorFlow)
 https://github.com/vandit15/Self-Supervised-Gans-Pytorch (PyTorch)
 

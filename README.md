@@ -26,7 +26,7 @@ We have classified the two GAN-variants research lines based on recent GAN devel
 
 ## Architecture-variant GANs
 LAPGAN:  
-https://github.com/jimfleming/LAPGAN (TensorFlow)
+https://github.com/jimfleming/LAPGAN (TensorFlow)  
 https://github.com/AaronYALai/Generative_Adversarial_Networks_PyTorch (PyTorch)
 
 DCGAN:   

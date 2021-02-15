@@ -12,7 +12,7 @@ If you find this useful in your research, please consider citing:
 
     @article{wang2021generative,
       title={Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy},
-      author={Wang, Zhengwei and She, Qi and Ward, Tom{\'a}s E},
+      author={Wang, Zhengwei and She, Qi and Ward, Tomas E},
       journal={ACM Computing Surveys (CSUR)},
       volume={54},
       number={2},

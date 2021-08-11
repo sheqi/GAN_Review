@@ -1,0 +1,40 @@
+﻿First Author,Year,Title,Type,Github
+Yu L,2016,SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient ,conference,https://github.com/LantaoYu/SeqGAN
+Mogren O,2016,C-RNN-GAN: Continuous recurrent neural networks with adversarial training ,arXiv,https://github.com/olofmogren/c-rnn-gan
+Esteban C,2017,REAL-VALUED (MEDICAL) TIME SERIES GENERATION WITH RECURRENT CONDITIONAL GANS ,arXiv,https://github.com/ratschlab/RGAN
+Abdelfattah S M,2018,Augmenting The Size of EEG datasets Using Generative Adversarial Networks ,conference,
+Haradal S,2018,Biosignal Data Augmentation Based on Generative Adversarial Networks* ,conference,
+Hartmann KG,2018,EEG-GAN: Generative adversarial networks for electroencephalograhic (EEG) brain signals ,arXiv,https://github.com/aung2phyowai/GAN
+Juvela L,2018,WAVEFORM GENERATION FOR TEXT-TO-SPEECH SYNTHESIS USING PITCH-SYNCHRONOUS MULTI-SCALE GENERATIVE ADVERSARIAL NETWORKS ,conference,https://github.com/ljuvela/multiscale-GAN
+Sun Y,2018,Exploration on Spatiotemporal Data Repairing of Parking Lots Based on Recurrent GANs,conference,
+Luo Y,2018,Multivariate Time Series Imputation with Generative Adversarial Networks ,conference,https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks
+Wiese M,2019,Quant GANs: Deep Generation of Financial Time Series,arXiv,
+Nikolaidis K,2019,Augmenting Physiological Time Series Data: A Case Study for Sleep Apnea Detection ,conference,
+Harada S,2019,Biosignal Generation and Latent Variable Analysis With Recurrent Generative Adversarial Networks ,arXiv,
+Wang L,2019,Continuous Patient-Centric Sequence Generation via Sequentially Coupled Adversarial Learning ,conference,
+Brophy E,2019,Quick and Easy Time Series Generation with Established Image-based GANs ,arXiv,
+Zhu F,2019,Electrocardiogram generation with a bidirectional LSTM-CNN generative adversarial network,journal,
+Fahimi F,2019,Towards EEG Generation Using GANs for BCI Applications ,conference,
+Yoon J,2019,Time-series Generative Adversarial Networks ,conference,https://github.com/jsyoon0823/TimeGAN
+Leangarun T,2019,Stock Price Manipulation Detection using Generative Adversarial Networks,conference,
+Zhu G,2019,A Novel LSTM-GAN Algorithm for Time Series Anomaly Detection ,conference,
+Li D,2019,MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks ,arXiv,https://github.com/LiDan456/MAD-GANs
+Guo Z,2019,A data imputation method for multivariate time series based on generative adversarial network ,journal,
+Qu F,2019,A novel wind turbine data imputation method with multiple optimizations based on GANs ,journal,
+Luo Y,2019,E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation ,conference,https://github.com/Luoyonghong/E2EGAN
+Chen Y,2019,Traffic Flow Imputation Using Parallel Data and Generative Adversarial Networks,journal,
+Sumiya Y,2019,NR-GAN: Noise Reduction GAN for Mice Electroencephalogram Signals,conference,
+Ni H,2020,Conditional Sig-Wasserstein GANs for Time Series Generation,arXiv,https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs
+Parthasarathy D,2020,Controlled time series generation for automotive software-in-the-loop testing using GANs ,Conference,https://github.com/dhas/LoGAN.git 
+Sun H,2020,Decision-Aware Conditional GANs for Time Series Data ,arXiv,
+Li Q,2020,GANs-LSTM Model for Soil Temperature Estimation From Meteorological: A New Approach,journal,
+Pascual D,2020,EpilepsyGAN: Synthetic Epileptic Brain Activities with Privacy Preservation ,journal,https://github.com/dapascual/GAN_epilepsy
+Kaushik S,2020,Medicine Expenditure Prediction via a Variance- Based Generative Adversarial Network,journal,
+Kiyasseh D,2020,PlethAugment: GAN-Based PPG Augmentation for Medical Diagnosis in Low-Resource Settings ,journal,
+Hazra D,2020,SynSigGAN: Generative Adversarial Networks for Synthetic Biomedical Signal Generation ,journal,
+Brophy E,2020,Synthesis of Dependent Multichannel ECG using Generative Adversarial Networks ,conference,https://github.com/Brophy-E/Multivariate-timeseries-GANs
+Yi L,2020,Adversarial Data Augmentation Network for Speech Emotion Recognition ,conference,https://github.com/Louisa-Luyi/adan
+Cheng PS,2020,A Variant Model of TGAN for Music Generation ,conference,
+Zhang H,2020,G-RNN-GAN for Singing Voice Separation,conference,
+Kolokolova A,2020,GANS & REELS  CREATING IRISH MUSIC USING A GENERATIVE ADVERSARIAL NETWORK ,arXiv,https://github.com/vin-nag/GANs-n-reels
+Han L,2020,Content-Aware Traffic Data Completion in ITS Based on Generative Adversarial Nets ,journal,

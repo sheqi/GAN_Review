@@ -15,7 +15,7 @@ This repo contains GANs review for topics of computer vision and time series
 
 ## Generative Adversarial Networks in Computer Vision
 
-<p align='center'><img src='./pic/GANs_taxonomy.png' width=1000></img>
+<p align='center'><img src='./GAN_CV/pic/GANs_taxonomy.png' width=1000></img>
 
 A Survey and Taxonomy of the Recent GANs Development in computer vision. Please refer to the details in recent review paper [“Generative Adversarial Networks in Computer Vision: A Survey and Taxonomy” Zhengwei Wang and Qi She and Tomas E. Ward](https://dl.acm.org/doi/abs/10.1145/3439723) ([arxiv version](https://arxiv.org/pdf/1906.01529.pdf)). We also provide a list of papers related to GANs on computer vision in the GAN_CV.csv file.
 
